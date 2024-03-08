@@ -1,6 +1,6 @@
 // declaro un objeto que tiene a los usuarios o en este caso a la x y el o
  export const TURNS = {
-    X:'x',
+    X:'×',
     O:'o'
     }
     
